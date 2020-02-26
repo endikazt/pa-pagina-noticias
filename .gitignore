@@ -1,0 +1,9 @@
+#eclipse
+**.project
+**.settings
+**.classpath
+**/target/
+**/.settings
+**/.metadata/
+**/Servers/
+/.recommenders/

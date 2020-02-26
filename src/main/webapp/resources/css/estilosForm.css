@@ -1,0 +1,8 @@
+input[type=text].error,input[type=password].error{
+	background: rgba(200,0,0,0.3);
+	border: solid 1px orange;
+}
+input[type=text].error:focus,input[type=password].error:focus{
+	background: rgba(200,0,0,0.1);
+	border: solid 1px green;
+}
